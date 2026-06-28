@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.macupdate.com/products/31936/l/busycal-logo.png?v=1669710975" width="100" alt="BusyCal icon"/>
+  <img src="https://store.setapp.com/cdn-cgi/image/width=384,quality=75,format=auto/app/304/46877/icon-1777382729-69f0b549dd91f.png" width="100" alt="BusyCal icon"/>
 </p>
 <h1 align="center">BusyCal — Calendar And Task Management</h1>
 <p align="center">Professional-grade calendar and task management — powerful features, native performance underneath.</p>
